@@ -1,1 +1,1 @@
-This repo is used to store my writing samples. 
+Hello. This repo is used to store my writing samples. 
